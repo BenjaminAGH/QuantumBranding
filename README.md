@@ -15,7 +15,7 @@
 
 ## Recursos
 
-- [Paleta de Colores](https://github.com/BenjaminAGH/QuantumBranding/tree/main/assets/colors)
+- [Paleta de Colores](https://github.com/BenjaminAGH/QuantumBranding/tree/main/colors)
 - [Logos](https://github.com/BenjaminAGH/QuantumBranding/tree/main/logos)
 
 ## Redes Sociales
