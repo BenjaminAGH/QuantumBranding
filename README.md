@@ -15,8 +15,8 @@
 
 ## Recursos
 
-- [Paleta de Colores](https://github.com/quantumubb/quantumubb-template)
-- [Logos](https://quantumubb-images.vercel.app)
+- [Paleta de Colores](https://github.com/BenjaminAGH/QuantumBranding/tree/main/assets/colors)
+- [Logos](https://github.com/BenjaminAGH/QuantumBranding/tree/main/logos)
 
 ## Redes Sociales
 
